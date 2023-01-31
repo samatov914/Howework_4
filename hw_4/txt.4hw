@@ -2,7 +2,7 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M """"
-git checkout ''''
+git checkout ''
 git remote add origin ссылка к репазитори
 git push -u origin 
 git remote remove origin
